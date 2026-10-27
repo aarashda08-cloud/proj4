@@ -1,7 +1,6 @@
 // Title : dijsktras.cpp
-// Name  : Abraham Rashdan
-// netID : 000704944
-// email : arashdan@vols.utk.edu
+// Name  : Abraham Rashdan & Eric Mcilrath
+// email : arashdan@vols.utk.edu & emciltat@vols.utk.edu
 // Description: This program generates a graph to test my dijkstras algorithim in dijkstras.cpp. 
 
 #include <iomanip> 

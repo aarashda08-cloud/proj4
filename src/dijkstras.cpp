@@ -1,9 +1,7 @@
 // Title : dijsktras.cpp
-// Name  : Abraham Rashdan
-// netID : 000704944
-// email : arashdan@vols.utk.edu
+// Names  : Abraham Rashdan & Eric Mcilrath
+// email :  arashdan@vols.utk.edu and emciltat@vols.utk.edu
 // Description: This program reads in a graph, and then using the dijkstra's algorithim finds the shortest path between two end points provided by the user
-
 
 #include <iostream> 
 #include <iomanip>
